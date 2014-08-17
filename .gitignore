@@ -1,0 +1,34 @@
+*.class
+*.log
+logs/
+local.*
+docs/local.*
+
+*.gpg
+
+# IntelliJ
+.idea/
+.idea_modules/
+scala-automation.iml
+
+# sbt specific
+.cache/
+.history/
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+
+# Eclipse
+.cache
+.classpath
+.project
+	
+
